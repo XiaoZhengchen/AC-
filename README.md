@@ -1,2 +1,2 @@
 # AC-
-ｃｏｄｅ　ｏｆ　ＡＣＭ　ａｃｃｅｐｅｄ　ｂｙ　ｍｅ
+code of Acm acceped by me
